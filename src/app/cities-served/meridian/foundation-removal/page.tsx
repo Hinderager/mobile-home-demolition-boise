@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Foundation Removal in Meridian | Boise Mobile Home Demolition',
-  description: 'Concrete foundation and pier removal in Meridian. Licensed professionals serving Idaho's fastest-growing city. Call (208) 505-9352.',
+  description: 'Concrete foundation and pier removal in Meridian. Licensed professionals serving the Treasure Valley. Call (208) 505-9352.',
   alternates: { canonical: 'https://boise-mobile-home-demolition.com/cities-served/meridian/foundation-removal' },
 }
 

@@ -4,7 +4,7 @@ import { Phone, ArrowRight } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Mobile Home Demolition in Meridian | Boise Mobile Home Demolition',
-  description: 'Professional mobile home demolition services in Meridian. Licensed, insured, and serving Idaho's fastest-growing city. Free quotes. Call (208) 505-9352.',
+  description: 'Professional mobile home demolition services in Meridian. Licensed, insured, and serving the Treasure Valley fastest-growing city. Free quotes. Call (208) 505-9352.',
   alternates: { canonical: 'https://boise-mobile-home-demolition.com/cities-served/meridian' },
 }
 

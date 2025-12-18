@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Manufactured Home Removal in Nampa | Boise Mobile Home Demolition',
-  description: 'Manufactured and modular home demolition in Nampa. Licensed professionals serving Canyon County's largest city. Call (208) 505-9352.',
+  description: 'Manufactured and modular home demolition in Nampa. Licensed professionals serving Canyon County largest city. Call (208) 505-9352.',
   alternates: { canonical: 'https://boise-mobile-home-demolition.com/cities-served/nampa/manufactured-home-removal' },
 }
 

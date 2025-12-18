@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Trailer Removal in Nampa | Boise Mobile Home Demolition',
-  description: 'Old trailer demolition and disposal in Nampa. Licensed professionals serving Canyon County's largest city. Call (208) 505-9352.',
+  description: 'Old trailer demolition and disposal in Nampa. Licensed professionals serving Canyon County largest city. Call (208) 505-9352.',
   alternates: { canonical: 'https://boise-mobile-home-demolition.com/cities-served/nampa/trailer-removal' },
 }
 
