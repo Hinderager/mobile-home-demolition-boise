@@ -4,7 +4,7 @@ import { Phone, CheckCircle, DollarSign, Clock, Shield, Truck, ThumbsUp } from '
 export const metadata: Metadata = {
   title: 'Why Choose Us | Boise Mobile Home Demolition',
   description: 'Learn why property owners choose Boise Mobile Home Demolition. Licensed experts, fair pricing, complete service, and reliable work across the Treasure Valley.',
-  alternates: { canonical: 'https://boise-mobile-home-demolition.com/about-us/why-choose-us' },
+  alternates: { canonical: 'https://mobile-home-demolition-boise.com/about-us/why-choose-us' },
 }
 
 export default function WhyChooseUsPage() {
@@ -95,8 +95,8 @@ export default function WhyChooseUsPage() {
       <section className="py-12 bg-dark-blue text-center">
         <div className="container mx-auto px-4">
           <h2 className="text-2xl font-bold text-white mb-4">Ready to Work With Us?</h2>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 943-5231
           </a>
         </div>
       </section>
