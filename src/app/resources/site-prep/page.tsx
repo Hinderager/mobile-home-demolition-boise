@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, MapPin, Shovel, CheckCircle, AlertTriangle, Hammer } from 'lucide-react'
 
 export const metadata: Metadata = {
@@ -16,6 +17,7 @@ export default function SitePrepPage() {
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">What to do with your property after the mobile home is gone.</p>
         </div>
       </section>
+      <VisibleBreadcrumb />
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">

@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { Phone } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
   title: 'Mobile Home Demolition in Star | Boise Mobile Home Demolition',
@@ -17,6 +18,7 @@ export default function StarMobileHomeDemolitionPage() {
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">Complete mobile home demolition and removal</p>
         </div>
       </section>
+      <VisibleBreadcrumb />
       <QuickQuoteBar />
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
