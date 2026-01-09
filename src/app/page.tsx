@@ -12,6 +12,8 @@ export default function Home() {
   return (
     <>
       <HeroSection />
+      <VisibleBreadcrumb />
+
       <QuickQuoteBar />
       <SectionDivider />
       <ServicesGrid />
